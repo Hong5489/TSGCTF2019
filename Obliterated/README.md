@@ -132,7 +132,8 @@ Lets see what's inside:
 ```bash
 root@2Real:~/Downloads/TSGCTF/Obliterated/easy_web# cat flag
 x�
-  	vwq�V�O�,�/-HI,I�-JM��M�R���E���y�9�`^FjbJ�~nbqIjQ-��(root@2Real:~/Downloads/TSGCTF/Obliterated/easy_web# file flag
+  	vwq�V�O�,�/-HI,I�-JM��M�R���E���y�9�`^FjbJ�~nbqIjQ-��(
+root@2Real:~/Downloads/TSGCTF/Obliterated/easy_web# file flag
 flag: zlib compressed data
 ``` 
 It's a zlib file
