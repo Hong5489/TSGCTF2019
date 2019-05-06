@@ -23,7 +23,7 @@ root@2Real:~/Downloads/TSGCTF/Obliterated_again/easy_web# cd problem/
 root@2Real:~/Downloads/TSGCTF/Obliterated_again/easy_web/problem# ls
 data.db  flag  lib  main.cr  README.md  shard.lock  shard.yml  src
 ```
-Usung the same script:
+Using the same script:
 ```python
 import zlib
 f = open('easy_web/problem/flag')
